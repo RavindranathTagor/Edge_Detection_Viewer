@@ -1,0 +1,47 @@
+# Node.js
+node_modules/
+dist/
+package-lock.json
+
+# Android Build
+build/
+.gradle/
+*.iml
+.idea/
+.DS_Store
+local.properties
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Logs
+*.log
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+
+# OpenCV SDK (too large for Git - download separately)
+app/src/main/jni/opencv/
+
+# Temporary files
+*.zip
+*.bat.bak
+*.md.bak
+
+# Documentation (keep only README.md)
+BUILD_STATUS.md
+DEMO_INSTRUCTIONS.md
+GRADLE_FIX.md
+QUICK_BUILD.md
+RUNNING_GUIDE.md
