@@ -30,6 +30,9 @@ A high-performance Android application that captures camera frames, processes th
 <img src="docs/screenshots/edge_mode.jpg" width="300" alt="Edge Detection Mode showing Canny edges at 29 FPS"/>
 <img src="docs/screenshots/edge_mode1.jpg" width="300" alt="Edge Detection Mode showing Canny edges at 29 FPS"/>
 
+### Demo - Edge Detection in Action
+<img src="docs/screenshots/ac3nj0.gif" width="300" alt="Real-time edge detection demonstration"/>
+
 ### TypeScript Web Viewer
 <img src="docs/screenshots/web_viewer.png" width="600" alt="Web viewer displaying sample processed frame"/>
 <img src="docs/screenshots/web_viewer1.png" width="600" alt="Web viewer displaying sample processed frame"/>
